@@ -34,11 +34,6 @@
 <h2>Starting the App</h2>
 
 <ol>
-    <li><strong>Navigate to the apps/web Directory</strong>
-        <pre><code>cd apps/web</code></pre>
-        <p>Alternatively, you can run the following command from the root directory of the project:</p>
-        <pre><code>npm run dev</code></pre>
-    </li>
     <li><strong>Start the Development Server</strong>
         <pre><code>npm run dev</code></pre>
     </li>
